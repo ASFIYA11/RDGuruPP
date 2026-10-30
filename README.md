@@ -284,4 +284,4 @@ components while ensuring that outputs are traceable, evaluated,
 privacy-conscious, and appropriately cautious for a medical-information
 setting.
 
-
+[![Architecture diagram of asfiya11/rdgurupp](https://gitdiagram.com/asfiya11/rdgurupp/diagram.png)](https://gitdiagram.com/asfiya11/rdgurupp?utm_source=readme&utm_medium=picture)
