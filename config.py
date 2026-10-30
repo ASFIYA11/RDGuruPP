@@ -28,6 +28,4 @@ class Config:
     MODEL_PATH = os.path.join(DATA_DIR, 'ddqn_rdgurupp.pt')
     HPO_PATH = os.path.join(DATA_DIR, 'hp.obo')
 
-    # API Keys
-    GROQ_API_KEY = "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"
-    GROQ_MODEL = "openai/gpt-oss-120b"
+    
